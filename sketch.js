@@ -42,7 +42,7 @@ function draw() {
     //slider value
     var fVal = gSlider.value();
     
-    //displaying slider
+    //displaying boxes
     for (var i = 0; i < boxes.length; i++) {
         boxes[i].show();
     }
